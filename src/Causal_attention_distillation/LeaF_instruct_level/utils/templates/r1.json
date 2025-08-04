@@ -1,0 +1,6 @@
+{ 
+    "description": "Template used by r1.",
+    "prompt_input": "<|begin▁of▁sentence|><|User|>{instruction}\n{input}<|end▁of▁sentence|><|Assistant|><think>\n",
+    "prompt_no_input":  "<|begin▁of▁sentence|><|User|>{instruction}<|end▁of▁sentence|><|Assistant|><think>\n",
+    "response_split":  "<|Assistant|><think>\n"
+}

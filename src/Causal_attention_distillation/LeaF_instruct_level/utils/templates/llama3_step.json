@@ -1,0 +1,6 @@
+{
+    "description": "Template used by Meta llama 3.",
+    "prompt_input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n{instruction}\n{input}<|eot_id|><|start_header_id|>assistant\n{step_response}<|end_header_id|>",
+    "prompt_no_input":  "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n{instruction}<|eot_id|><|start_header_id|>assistant\n{step_response}<|end_header_id|>",
+    "response_split":  "<|start_header_id|>assistant<|end_header_id|>"
+}
