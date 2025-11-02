@@ -17,8 +17,11 @@ Code&Data for the paper **Learning to Focus: Causal Attention Distillation via G
 
 ---------
 ## News
+- [2025.10.24] We update the camera-ready version [arxiv](https://arxiv.org/pdf/2506.07851) and add LeaF experiments on multi-hop QA tasks.
+- [2025.09.28] Our paper is accepted to NeurIPS 2025.
 - [2025.08.04] We upload the code for confounding token detection and causal attention distillation.
 - [2025.06.09] We release our paper on [arxiv](https://arxiv.org/pdf/2506.07851).
+  
 
 ## Evaluation Results
 
