@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.07851-red.svg)](https://arxiv.org/abs/2506.07851)
 
-This repository implements the methods described in **Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning**. We propose **Learning to Focus (LeaF)**, a two-stage framework that treats distracting patterns as spurious confounders in LLM reasoning.
+Code&Data for the paper **Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning**. [NeurIPS 2025]. We propose **Learning to Focus (LeaF)**, a two-stage framework that treats distracting patterns as spurious confounders in LLM reasoning.
 
 1. **Confounding Token Detection**  
    LeaF identifies **confounding tokens** through gradient-based comparisons between a high-capacity teacher and a student model. 
